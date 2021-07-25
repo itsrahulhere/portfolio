@@ -74,7 +74,8 @@ function Home() {
     </div>
     
    <div className="copyrightText">
-     <p>Copyright 2021 <a href="#">LearningTogether</a>. All Right Reserved</p>
+     <p>Made with ❤️ by <span style={{color: "#ff0157", fontSize:"20px"}}> Rahul</span>
+     </p>
    </div>
 
     </div>
