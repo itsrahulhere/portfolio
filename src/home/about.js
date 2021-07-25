@@ -7,12 +7,15 @@ function About() {
      <div className="row">
         <div className="col50">
           <h2 className="titleText"><span>A</span>bout Me</h2>
-          <p>Google Summer of Code is a global program focused on bringing
-           more student developers into open source software development. Students work with an open source organization on a 10 week
-           programming project during their break from school.<br/><br/>
-           Organically we have trained software engineers and youth and allow them to present their ideas that can transform their career and living standards.
-
-            The Objective of the company is to provide Extensive support services broadly in IT Sector, as we are having In-house experts for the same.
+          <p>Hello, My name is Rahul. Currently, I am pursuing B.Tech in Computer Science and Engineering 
+            from Delhi Technical Campus affliated to GGSIPU, and my graduation is about to complete in next year.<br/><br/>
+            
+            I had internships with NPR Supporting Services Pvt. Ltd. where I learnt MERN stack and gained valuable industry knowledge.
+            
+            <br/><br/>
+           Currently, I want to secure a job of Software Developer Engineer. My long term goal is by gaining work
+            experience of 05-07 years in the field of SDE. I wish to work in a senior position, contributing to the 
+            betterment of my workplace and society.
           </p>
           <center>
           <a href="https://drive.google.com/file/d/1-OLsiozgb8lMFhjFymkDnpuJMfZ-SWaC/view?usp=sharing" 
