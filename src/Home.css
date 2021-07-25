@@ -76,6 +76,39 @@ p
   letter-spacing: 6px;
   color: #ff0157;
 }
+.skillsbox
+{
+  padding: 20px 15px 12px 15px;
+  background:#fff;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.skillsbox h3
+{
+  color: #111;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+.linkcodebtn
+{
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+  background: #f3f3f3;
+  display: inline-block;
+  padding: 15px 30px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.linkcodebtn:hover
+{
+  letter-spacing: 6px;
+  color: #ff0157;
+}
 header
 {
   position: fixed;
@@ -193,20 +226,7 @@ header .navigation li a:hover
   font-weight: 500;
 }
 
-.skillsbox
-{
-  padding: 20px 15px 12px 15px;
-  background:#fff;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.1);
-  margin-bottom: 10px;
-  margin-top: 20px;
-}
-.skillsbox h3
-{
-  color: #111;
-  font-size: 1.2em;
-  font-weight: 500;
-}
+
 
 .contact
 {

@@ -14,6 +14,11 @@ function About() {
 
             The Objective of the company is to provide Extensive support services broadly in IT Sector, as we are having In-house experts for the same.
           </p>
+          <center>
+          <a href="https://drive.google.com/file/d/1-OLsiozgb8lMFhjFymkDnpuJMfZ-SWaC/view?usp=sharing" 
+             target="_blank" className="linkcodebtn ">View My Resume</a>
+</center>
+          
         </div>
         <div class="col50">
           <div class="imgBx">
