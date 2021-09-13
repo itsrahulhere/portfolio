@@ -37,10 +37,8 @@ function Home() {
       </header>
     <div className="banner section" id="banner">
       <div className="content">
-        <h2>Always Choose Good</h2>
-        <p>Google Summer of Code is a global program focused on bringing
-           more student developers into open source software development. Students work with an open source organization on a 10 week
-           programming project during their break from school.
+        <h2>Rahul</h2>
+        <p>Computer Science Student
         </p>
         <a href="#" className="btnn">Our Menu</a>
       </div>
