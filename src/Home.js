@@ -40,7 +40,7 @@ function Home() {
         <h2>Rahul</h2>
         <p>Computer Science Student
         </p>
-        <a href="#" className="btnn">Our Menu</a>
+        <a href="#about" onClick={toggleMenu} className="btnn">About Me</a>
       </div>
     </div>
 
