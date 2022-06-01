@@ -7,8 +7,8 @@ function About() {
      <div className="row">
         <div className="col50">
           <h2 className="titleText"><span>A</span>bout Me</h2>
-          <p>Hello, My name is Rahul. Currently, I am pursuing B.Tech in Computer Science and Engineering 
-            from Delhi Technical Campus affliated to GGSIPU, and my graduation is about to complete in next year.<br/><br/>
+          <p style={{ textAlign: 'justify' }}>Hello, My name is Rahul. Currently, I am pursuing B.Tech in Computer Science and Engineering 
+            from Delhi Technical Campus affliated to GGSIPU, and my graduation is complete in 2022.<br/><br/>
             
             I had internships with NPR Supporting Services Pvt. Ltd. where I learnt MERN stack and gained valuable industry knowledge.
             
@@ -18,7 +18,7 @@ function About() {
             betterment of my workplace and society.
           </p>
           <center>
-          <a href="https://drive.google.com/file/d/1-OLsiozgb8lMFhjFymkDnpuJMfZ-SWaC/view?usp=sharing" 
+          <a href="https://drive.google.com/file/d/1AUODXczXmQCJf4e_8Xbi4_3sTGFXye9y/view" 
              target="_blank" className="linkcodebtn ">View My Resume</a>
 </center>
           
