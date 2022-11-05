@@ -1,2 +1,1 @@
-
-Open [https://itsrahulhere.github.io/portfolio/](https://itsrahulhere.github.io/portfolio/)
+#### Portfolio Link: <a href="https://itsrahulhere.github.io/portfolio/" target="_blank">https://itsrahulhere.github.io/portfolio/</a>
