@@ -15,20 +15,20 @@ function Links() {
        
        
           <Col>
-          <a href="https://www.linkedin.com/in/itsrahulhere/" target="_blank" className="linkcodebtn ">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/itsrahulhere/" target="_blank" rel="noreferrer" className="linkcodebtn ">LinkedIn</a>
           </Col>
           <Col>
-          <a href="https://leetcode.com/itsrahulhere/" target="_blank" className="linkcodebtn ">LeetCode</a>
+          <a href="https://leetcode.com/itsrahulhere/" target="_blank" rel="noreferrer" className="linkcodebtn ">LeetCode</a>
           </Col>
           <Col>
-          <a href="https://auth.geeksforgeeks.org/user/itsrahulhere_/practice/" target="_blank" className="linkcodebtn ">GeeksforGeeks</a>
+          <a href="https://auth.geeksforgeeks.org/user/itsrahulhere_/practice/" target="_blank" rel="noreferrer" className="linkcodebtn ">GeeksforGeeks</a>
           </Col>
          
           <Col>
-          <a href="https://www.hackerrank.com/itsrahulhere_" target="_blank" className="linkcodebtn ">Hackerrank</a>
+          <a href="https://www.hackerrank.com/itsrahulhere_" target="_blank" rel="noreferrer" className="linkcodebtn ">Hackerrank</a>
          </Col> 
         <Col>
-          <a href="https://github.com/itsrahulhere/language" target="_blank" className="linkcodebtn ">GitHub</a>
+          <a href="https://github.com/itsrahulhere/language" target="_blank" rel="noreferrer" className="linkcodebtn ">GitHub</a>
           </Col>
         </Row>
       </Container>
