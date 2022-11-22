@@ -21,7 +21,7 @@ function Projects() {
               </p>
               <div className="inputBox" style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
                 <a href="https://github.com/itsrahulhere/products-catalog" target="_blank" rel="noreferrer" className="codebtn ">Code</a>
-                <a href="https://github.com/itsrahulhere/products-catalog#my-anchor" target="_blank" rel="noreferrer" className="btnn ">Pics</a>
+                <a href="https://github.com/itsrahulhere/products-catalog#my-anchor" target="_blank" rel="noreferrer" className="btnn ">View</a>
               </div>
             </div>
 
@@ -42,7 +42,7 @@ function Projects() {
 
               <div className="inputBox" style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
                 <a href="https://github.com/itsrahulhere/News" target="_blank" rel="noreferrer" className="codebtn ">Code</a>
-                <a href="https://github.com/itsrahulhere/News#home-page" target="_blank" rel="noreferrer" className="btnn ">Pics</a>
+                <a href="https://github.com/itsrahulhere/News#home-page" target="_blank" rel="noreferrer" className="btnn ">View</a>
               </div>
             </div>
 
