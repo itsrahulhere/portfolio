@@ -18,7 +18,7 @@ function About() {
             betterment of my workplace and society.
           </p>
           <center>
-          <a href="https://drive.google.com/file/d/1AUODXczXmQCJf4e_8Xbi4_3sTGFXye9y/view" 
+          <a href="https://drive.google.com/file/d/1MJJD5h2H4A7jBYEvVKWkVm6-C82WjMps/view" 
              target="_blank" rel="noreferrer" className="linkcodebtn ">View My Resume</a>
 </center>
           
