@@ -20,9 +20,9 @@ function Home() {
   });
  
   return (
-    <div className="Home">
+    <div className="Home" id="home">
       <header>
-        <a href="#" className="logo">LearnTogether<span>.</span></a>
+        <a href="#home" className="logo">LearnTogether<span>.</span></a>
         <div className="menuToggle" onClick={toggleMenu} ></div>
         <ul className="navigation">
           <li><a href="#banner" onClick={toggleMenu} >Home</a></li>

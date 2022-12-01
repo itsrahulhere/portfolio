@@ -26,7 +26,7 @@ function Skills() {
             <center><div className="skillsbox"><h3>Spring Boot </h3></div></center>
           </Col>
 
-          <center><div ><h3></h3></div></center>
+          <center><div ><h3> </h3></div></center>
 
           <Col>
             <center><div className="skillsbox"><h3>HTML</h3></div></center>

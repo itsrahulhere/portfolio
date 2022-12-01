@@ -286,6 +286,49 @@ header .navigation li a:hover
   letter-spacing: 3px;
   max-width: 105px;
 }
+
+.contactForm .inputBox input[type="button"]
+{
+  font-size: 1em;
+  color: #000;
+  background: #01ffb7;
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  transition: 0.5s;
+  max-width: 180px;
+  font-weight: 500;
+  border:none;
+  cursor: default;
+}
+
+.btn-sent {
+  margin: 0 20px;
+}
+
+@media (max-width: 462px) { 
+
+  .contactForm .inputBox input[type="submit"] {
+    max-width: 80px;
+  }
+
+  .contactForm .inputBox input[type="button"] {
+    max-width: 150px;
+    letter-spacing: 1px;
+  }
+
+  .btn-sent {
+    margin: 0 0 0 5px;
+  }
+  
+}
+
+.oneline {
+  display:inline;
+}
+
+
 .copyrightText
 {
   padding: 8px 40px;

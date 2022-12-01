@@ -25,7 +25,7 @@ function About() {
         </div>
         <div class="col50">
           <div class="imgBx">
-            <img src={about} alt="image can't load" />
+            <img src={about} alt="profile pic" />
           </div>
 
         </div>
