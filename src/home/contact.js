@@ -8,6 +8,9 @@ function Contact() {
 
   function changeMode() {
     setStatus(true);
+    setTimeout(()=>{
+      setStatus(false);
+    }, 3500)
   }
 
   //email functionality
@@ -18,7 +21,7 @@ function Contact() {
 
     emailjs
       .sendForm(
-        "service_zl7gpvg",
+        "service_kvy3z6r",
         "template_45vzz1h",
         form.current,
         "INU2SBysHC2qsHrOX"

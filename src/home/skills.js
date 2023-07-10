@@ -20,7 +20,7 @@ function Skills() {
           <center><div className="skillsbox"><h3>Web Development</h3></div></center>
 
           <Col>
-            <center><div className="skillsbox"><h3>Angular</h3></div></center>
+            <center><div className="skillsbox"><h3>ReactJS</h3></div></center>
           </Col>
           <Col>
             <center><div className="skillsbox"><h3>Spring Boot </h3></div></center>
@@ -41,7 +41,7 @@ function Skills() {
             <center><div className="skillsbox"><h3>Javascript</h3></div></center>
           </Col>
           <Col>
-            <center><div className="skillsbox"><h3>ReactJs</h3></div></center>
+            <center><div className="skillsbox"><h3>Angular</h3></div></center>
           </Col>
           <Col>
             <center><div className="skillsbox"><h3>NodeJs</h3></div></center>

@@ -13,12 +13,12 @@ function About() {
             I had internships with NPR Supporting Services Pvt. Ltd. where I learnt MERN stack and gained valuable industry knowledge.
             
             <br/><br/>
-           Currently, I want to secure a job of Software Developer Engineer. My long term goal is by gaining work
+           {/* Currently, I want to secure a job of Software Developer Engineer. My long term goal is by gaining work
             experience of 05-07 years in the field of SDE. I wish to work in a senior position, contributing to the 
-            betterment of my workplace and society.
+            betterment of my workplace and society. */}
           </p>
           <center>
-          <a href="https://drive.google.com/file/d/1MJJD5h2H4A7jBYEvVKWkVm6-C82WjMps/view" 
+          <a href="https://drive.google.com/file/d/1QnQ7alvUdHqnPWoYK90Qj5W6YEIjXNPG/view" 
              target="_blank" rel="noreferrer" className="linkcodebtn ">View My Resume</a>
 </center>
           

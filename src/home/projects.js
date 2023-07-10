@@ -13,6 +13,47 @@ function Projects() {
         <Row>
           <Col>
             <div className="Projectbox">
+              <center><h3>CONTACT APP</h3></center>
+              <p style={{ lineHeight: "100%" }}>
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Created a mobile contact management app with local database storage and photo integration.<br />
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Features include adding, modifying, and deleting contacts, viewing the contact list, and marking contacts as favorites. <br />
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> The app also provides a dedicated section for displaying favorite contacts. <br />
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Technology Used: <strong>REACT NATIVE</strong>, SQLITE STORAGE<br />
+              </p>
+              <div className="inputBox" style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
+                <a href="https://github.com/itsrahulhere/contact-app" target="_blank" rel="noreferrer" className="codebtn ">Code</a>
+                <a href="https://drive.google.com/file/d/1KfRB5F9WshjaLXDNFDNKiXi9iMotw2on/view" target="_blank" rel="noreferrer" className="btnn ">Video</a>
+              </div>
+            </div>
+
+
+          </Col>
+        </Row>
+
+        {/* <Row>
+          <Col>
+            <div className="Projectbox">
+              <center><h3>BUDGET APP</h3></center>
+              <p style={{ lineHeight: "100%" }}>
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Created a mobile contact management app with local database storage and photo integration.<br />
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Features include adding, modifying, and deleting contacts, viewing the contact list, and marking contacts as favorites. <br />
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> The app also provides a dedicated section for displaying favorite contacts. <br />
+                <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Technology Used: <strong>REACT NATIVE</strong>, REDUX<br />
+              </p>
+              <div className="inputBox" style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
+                <a href="https://github.com/itsrahulhere/contact-app" target="_blank" rel="noreferrer" className="codebtn ">Code</a>
+                <a href="https://drive.google.com/file/d/1KfRB5F9WshjaLXDNFDNKiXi9iMotw2on/view" target="_blank" rel="noreferrer" className="btnn ">Video</a>
+              </div>
+            </div>
+
+
+          </Col>
+        </Row> */}
+
+
+        <Row>
+          <Col>
+            <div className="Projectbox">
               <center><h3>PRODUCT CATALOG</h3></center>
               <p style={{ lineHeight: "100%" }}>
                 <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Product catalog website where user can visit, register themselves, browse products, search products, view product details. <br />
@@ -74,7 +115,7 @@ function Projects() {
               <p style={{ lineHeight: "100%" }}>
                 {/* <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> <br /> */}
                 <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Developed the features to manipulate the texts, build the customised alert and worked on website theme i.e. dark
-mode and light mode.<br />
+                mode and light mode.<br />
                 <span style={{ color: "#ff0157", fontSize: "50px" }}>.</span> Technology Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS, GITHUB<br />
               </p>
               <div className="inputBox" style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
